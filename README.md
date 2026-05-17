@@ -10,5 +10,7 @@ Run the code :After building successfully, navigate to Debug > Start Without Deb
 Features: Add new recipes with ingredients and steps.Display all recipes sorted alphabetically by name.View detailed information about each recipe.Scale recipes by a given factor (e.g., half, double, triple).Reset ingredient quantities to their original values.Clear a specific recipe from the list.Filter recipes by ingredient, food group, or maximum calories.
 Warnings for recipes with total calories exceeding 300.
 
+You'll find the user manual in UserManual POE.pdf
+
 GitHub Repository:
 https://github.com/ST10379296/BokamosoModibedi-POE
